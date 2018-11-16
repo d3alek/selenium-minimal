@@ -9,6 +9,11 @@ Clone this repo, then
 > source venv/bin/activate
 > pip install selenium
 
+You also need to install a recent version of Gecko Driver. For Debian/Ubuntu:
+
+> apt install firefoxdriver
+
+
 ### Run
 
 Make sure to activate the virtual environment:
